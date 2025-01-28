@@ -17,7 +17,7 @@ with updated postions of players.
 
 ## Tkinter version
 As soon as I finished this project I worked with idea if it is possible to draw board in python library **Tkinter**. With some drawing functions and changes in main loop it was really possible. 
-Here are the results from `clovece_tkinter_final.py`           
+It is easier to get familiar with the game now. Here are the results from `clovece_tkinter_final.py`.           
 
 **An example of Tkinter version of the game**
 ![First](https://i.imgur.com/88fv6Cb.png)
